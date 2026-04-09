@@ -1,0 +1,2 @@
+MAX_CHARS = 10000
+GEMINI_MODEL = "gemini-2.5-flash"
